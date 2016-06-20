@@ -1,14 +1,26 @@
-layout_spectrum: 0.6616541
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.358396
 color:
-  saturation: 0.8941103
-  lightness: 0.5469925
+  saturation: 0.8358396
   brandStrength: 0.7606516
+  lightness: 0.9110276
   brandColors:
     - '#FFFFFF'
     - '#0A080D'
     - '#736F6C'
     - '#434345'
     - '#97959A'
-  rhythmicContrast: 0.7631579
-typography_spectrum: 0.6516291
+  rhythmicContrast: 0.8201754
+layout_spectrum: 0.1948622
 name: LisaTrujillo
