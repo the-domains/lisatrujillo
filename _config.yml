@@ -1,4 +1,4 @@
-name: LisaTrujillo
+name: Fast English Mastery
 favicon: null
 layout_spectrum: 0.1948622
 typography_spectrum: 0.358396
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#0A080D'
-    - '#736F6C'
-    - '#434345'
-    - '#97959A'
-  brandStrength: 0.7606516
-  lightness: 0.9110276
-  saturation: 0.8358396
+    - '#ffffff'
+    - '#1c2127'
+    - '#656661'
+    - '#9cbad6'
+    - '#ff91aa'
+  brandStrength: 0.9375
+  lightness: 0.4375
+  saturation: 0.9375
   rhythmicContrast: 0.8201754
 purpose: []
