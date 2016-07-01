@@ -1,15 +1,26 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-06-20T23:58:10.569Z'
-dateModified: null
-author: []
-sourcePath: >-
-  _posts/2016-06-20-studying-in-the-united-states-need-to-master-the-english-l.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: >-
+  This site is for you if you need to master academic English quickly in order
+  to finish college or university faster and save tuition money that you would
+  otherwise have to spend on pre-college level ( non-transferable credit)
+  classes or repeating classes because your English proficiency was not
+  satisfactory enough to do well.
+datePublished: '2016-07-01T19:22:54.324Z'
+dateModified: '2016-07-01T19:22:38.431Z'
+title: Improve Your Academic English Easier and Faster Than You Thought Possible
+author: []
+sourcePath: >-
+  _posts/2016-06-20-studying-in-the-united-states-need-to-master-the-english-l.md
+authors: []
+publisher: null
+starred: false
+_type: Blurb
 
 ---
 # Improve Your Academic English Easier and Faster Than You Thought Possible
@@ -33,7 +44,7 @@ Paying living expenses, required health insurance, and tuition and books was ver
 
 This situation is very common. 
 
-## How Lisa Can Help You Save Time and Money
+## How Lisa Can Help You Save Time and Money?
 
 If you are planning to study in the United States, or if you are already here and have experienced this for yourself, I can help you.
 
