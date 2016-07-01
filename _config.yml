@@ -1,3 +1,7 @@
+name: LisaTrujillo
+favicon: null
+layout_spectrum: 0.1948622
+typography_spectrum: 0.358396
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.358396
+title: Master Academic English Fast with Lisa Trujillo
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8358396
-  brandStrength: 0.7606516
-  lightness: 0.9110276
   brandColors:
     - '#FFFFFF'
     - '#0A080D'
     - '#736F6C'
     - '#434345'
     - '#97959A'
+  brandStrength: 0.7606516
+  lightness: 0.9110276
+  saturation: 0.8358396
   rhythmicContrast: 0.8201754
-layout_spectrum: 0.1948622
-name: LisaTrujillo
+purpose: []
