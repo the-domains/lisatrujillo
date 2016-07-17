@@ -5,14 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  This site is for you if you need to master academic English quickly in order
-  to finish college or university faster and save tuition money that you would
-  otherwise have to spend on pre-college level ( non-transferable credit)
-  classes or repeating classes because your English proficiency was not
-  satisfactory enough to do well.
-datePublished: '2016-07-17T01:30:53.148Z'
-dateModified: '2016-07-17T01:23:27.523Z'
-title: ''
+  Hi! Permit me to introduce myself briefly. I am Lisa Trujillo. I was born and
+  grew up in Washington State, USA. I have taught English and academic reading
+  classes for over 16 years, most of that time as a tenured faculty member at
+  Green River College, a two-year college near Seattle, Washington.
+datePublished: '2016-07-17T01:33:14.415Z'
+dateModified: '2016-07-17T01:32:58.993Z'
+title: Who is Lisa?
 author: []
 sourcePath: >-
   _posts/2016-06-20-studying-in-the-united-states-need-to-master-the-english-l.md
@@ -23,7 +22,6 @@ url: studying-in-the-united-states-need-to-master-the-english-l/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d62cee6-1034-44e2-99cc-dc79b2f712c9.jpg)
 ![This site is for you if you need to master academic English quickly in order to finish college or university faster and save tuition money that you would otherwise have to spend on pre-college level ( non-transferable credit) classes or repeating classes because your English proficiency was not satisfactory enough to do well.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef8b0edc-52fa-4b44-b9fa-b3d8993c1ad0.jpg)
 
 # Improve Your Academic English Easier and Faster Than You Thought Possible
@@ -57,3 +55,4 @@ I can help you place higher on the assessment exam. If you have already started 
 I enjoy working with students from other countries, as I love to learn about their cultures and help them adjust to life in the United States--- something they are often not adequately prepared for before they arrive, and they are met with a lot of surprises when things are more different than they realized.
 
 Let me help you. Contact me and tell me what you would most like to learn from me and how I can best serve you!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea1ca714-312a-40ed-b8f4-2e1808f41a96.jpg)
