@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Master Academic English Fast with Lisa Trujillo]]></title>
         <description><![CDATA[Master Academic English Fast with Lisa Trujillo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lisatrujillo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 01:23:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jul 2016 01:31:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lisatrujillo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Studying in the United States?  Need to Master the English Language?]]></title>
             <description><![CDATA[<article><h1>Studying in the United States?  Need to Master the English Language?</h1><p>This site is for you if you need to master academic English quickly in order to finish college or university faster and save tuition money that you would otherwise have to spend on pre-college level ( non-transferable credit) classes or repeating classes because your English proficiency was not satisfactory enough to do well.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef8b0edc-52fa-4b44-b9fa-b3d8993c1ad0.jpg"></article>]]></description>
-            <link>undefinedstudying-in-the-united-states-need-to-master-the-english-l/index.html</link>
+            <link>https://thegrid.ai/lisatrujillo/studying-in-the-united-states-need-to-master-the-english-l/index.html</link>
             <guid isPermaLink="false">e4bd73dd-078a-4e78-8738-1a2788cc515d</guid>
-            <pubDate>Sun, 17 Jul 2016 01:23:22 GMT</pubDate>
+            <pubDate>Sun, 17 Jul 2016 01:30:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
