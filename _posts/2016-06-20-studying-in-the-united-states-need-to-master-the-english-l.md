@@ -11,9 +11,9 @@ description: >-
   otherwise have to spend on pre-college level ( non-transferable credit)
   classes or repeating classes because your English proficiency was not
   satisfactory enough to do well.
-datePublished: '2016-07-01T19:22:54.324Z'
-dateModified: '2016-07-01T19:22:38.431Z'
-title: Improve Your Academic English Easier and Faster Than You Thought Possible
+datePublished: '2016-07-17T01:08:04.970Z'
+dateModified: '2016-07-17T01:07:53.914Z'
+title: ' '
 author: []
 sourcePath: >-
   _posts/2016-06-20-studying-in-the-united-states-need-to-master-the-english-l.md
@@ -23,6 +23,8 @@ starred: false
 _type: Blurb
 
 ---
+# 
+
 # Improve Your Academic English Easier and Faster Than You Thought Possible
 ![This site is for you if you need to master academic English quickly in order to finish college or university faster and save tuition money that you would otherwise have to spend on pre-college level ( non-transferable credit) classes or repeating classes because your English proficiency was not satisfactory enough to do well.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef8b0edc-52fa-4b44-b9fa-b3d8993c1ad0.jpg)
 
