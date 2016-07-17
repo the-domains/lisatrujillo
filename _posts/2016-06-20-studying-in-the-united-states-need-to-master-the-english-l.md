@@ -10,8 +10,8 @@ description: >-
   otherwise have to spend on pre-college level ( non-transferable credit)
   classes or repeating classes because your English proficiency was not
   satisfactory enough to do well.
-datePublished: '2016-07-17T01:23:22.738Z'
-dateModified: '2016-07-17T01:22:45.032Z'
+datePublished: '2016-07-17T01:30:53.148Z'
+dateModified: '2016-07-17T01:23:27.523Z'
 title: ''
 author: []
 sourcePath: >-
@@ -24,9 +24,9 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d62cee6-1034-44e2-99cc-dc79b2f712c9.jpg)
+![This site is for you if you need to master academic English quickly in order to finish college or university faster and save tuition money that you would otherwise have to spend on pre-college level ( non-transferable credit) classes or repeating classes because your English proficiency was not satisfactory enough to do well.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef8b0edc-52fa-4b44-b9fa-b3d8993c1ad0.jpg)
 
 # Improve Your Academic English Easier and Faster Than You Thought Possible
-![This site is for you if you need to master academic English quickly in order to finish college or university faster and save tuition money that you would otherwise have to spend on pre-college level ( non-transferable credit) classes or repeating classes because your English proficiency was not satisfactory enough to do well.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef8b0edc-52fa-4b44-b9fa-b3d8993c1ad0.jpg)
 
 ## Who is Lisa?
 
